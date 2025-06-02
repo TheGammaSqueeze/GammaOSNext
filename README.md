@@ -53,6 +53,19 @@ Enjoy the ultimate combination of power, customization, and ease-of-use with Gam
 | Device                               | Release                                                                                  |
 |--------------------------------------|------------------------------------------------------------------------------------------|
 | Anbernic RG556 / RG-CUBE / RG406V / RG406H     | [GammaOS Next - Anbernic T820 - v1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.0.0-T820) |
+| Anbernic RG405M / RG405V / RG505    |  **PLANNED** |
+| AYANEO Pocket Micro | **PLANNED** |
+| AYANEO Pocket-S / DMG | **PLANNED** |
+| AYANEO Pocket AIR | **PLANNED** |
+| Retroid Pocket 4 PRO | **PLANNED** |
+| Retroid Pocket Mini v1/v2 | **PLANNED** |
+| Retroid Pocket Flip 2 | **PLANNED** |
+| Retroid Pocket 5 | **PLANNED** |
+| Retroid Pocket Classic | **PLANNED** |
+| KT Pocket KT-R1 | **PLANNED** |
+| ZPG Unicorn A1 | **PLANNED** |
+| GameMT E6 MAX | **PLANNED** |
+
 
 ## Download & Changelog
 
