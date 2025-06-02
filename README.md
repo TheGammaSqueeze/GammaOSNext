@@ -65,7 +65,7 @@ Enjoy the ultimate combination of power, customization, and ease-of-use with Gam
 | KT Pocket KT-R1 | **PLANNED** |
 | ZPG Unicorn A1 | **PLANNED** |
 | GameMT E6 MAX | **PLANNED** |
-
+| Powkiddy x28 | **PLANNED** |
 
 ## Download & Changelog
 
