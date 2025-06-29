@@ -63,7 +63,7 @@ Enjoy the ultimate combination of power, customization, and ease-of-use with Gam
 | Retroid Pocket 5 | **PLANNED** |
 | Retroid Pocket Classic | **PLANNED** |
 | KT Pocket KT-R1 | [GammaOS Next - KTPocket KT-R1 - v1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.0.0-KTR1) |
-| ZPG Unicorn A1 | **PLANNED** |
+| ZPG Unicorn A1 | [GammaOS Next - ZPG A1 Unicorn - v1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.0.0-ZPGA1UNICORN) |
 | GameMT E6 MAX | **PLANNED** |
 | Powkiddy x28 | **PLANNED** |
 
