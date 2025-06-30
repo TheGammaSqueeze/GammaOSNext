@@ -66,7 +66,6 @@ Enjoy the ultimate combination of power, customization, and ease-of-use with Gam
 | ZPG Unicorn A1 | [GammaOS Next - ZPG A1 Unicorn - v1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.0.0-ZPGA1UNICORN) |
 | GameMT E6 MAX | [GammaOS Next - GameMT E6 Max - v1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.0.0-GAMEMTE6MAX) |
 | Powkiddy x28 | **PLANNED** |
-| Magicx Zero 40 | **PLANNED** |
 
 ## Download & Changelog
 
