@@ -54,14 +54,14 @@ Enjoy the ultimate combination of power, customization, and ease-of-use with Gam
 |--------------------------------------|------------------------------------------------------------------------------------------|
 | Anbernic RG556 / RG-CUBE / RG406V / RG406H     | [GammaOS Next - Anbernic T820 - v1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.0.0-T820) |
 | Anbernic RG405M / RG405V / RG505    |  **PLANNED** |
-| AYANEO Pocket Micro | **PLANNED** |
+| AYANEO Pocket Micro | [GammaOS Next - AYANEO Pocket Micro - v1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.0.0-AYANEOPOCKETMICRO) |
 | AYANEO Pocket-S / DMG | **PLANNED** |
 | AYANEO Pocket AIR | **PLANNED** |
-| Retroid Pocket 4 PRO | **PLANNED** |
+| Retroid Pocket 4 PRO | [GammaOS Next - Retroid Pocket 4 Pro - v1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.0.0-RETROIDPOCKET4PRO) |
 | Retroid Pocket Mini v1/v2 | **PLANNED** |
 | Retroid Pocket Flip 2 | **PLANNED** |
 | Retroid Pocket 5 | **PLANNED** |
-| Retroid Pocket Classic | **PLANNED** |
+| Retroid Pocket Classic | [GammaOS Next - Retroid Pocket Classic - v1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.0.0-RETROIDPOCKETCLASSIC) |
 | KT Pocket KT-R1 | [GammaOS Next - KTPocket KT-R1 - v1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.0.0-KTR1) |
 | ZPG Unicorn A1 | [GammaOS Next - ZPG A1 Unicorn - v1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.0.0-ZPGA1UNICORN) |
 | GameMT E6 MAX | [GammaOS Next - GameMT E6 Max - v1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.0.0-GAMEMTE6MAX) |
