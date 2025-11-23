@@ -53,8 +53,8 @@ Enjoy the ultimate combination of power, customization, and ease-of-use with Gam
 | Device                               | Release                                                                                  |
 |--------------------------------------|------------------------------------------------------------------------------------------|
 | Anbernic RG556 / RG-CUBE / RG406V / RG406H     | [GammaOS Next - Anbernic T820 - v1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.0.0-T820) |
-| Anbernic RG Slide     |  **PLANNED** |
-| Anbernic RG405M / RG405V / RG505    |  **PLANNED** |
+| Anbernic RG Slide / RG476H     |  **PLANNED** |
+| Anbernic RG405M / RG405V / RG505    |  [GammaOS Next - Anbernic RG405M / RG405V / RG505 - v1.1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.1.0-ANBERNICT618) |
 | AYANEO Pocket Micro | [GammaOS Next - AYANEO Pocket Micro - v1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.0.0-AYANEOPOCKETMICRO) |
 | AYANEO Pocket-S / DMG | **PLANNED** |
 | AYANEO Pocket AIR | **PLANNED** |
