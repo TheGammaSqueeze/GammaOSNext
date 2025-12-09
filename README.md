@@ -79,7 +79,7 @@ Enjoy the combination of performance, flexibility, and console-like UX that Gamm
 |--------------------------------------|------------------------------------------------------------------------------------------|
 | Anbernic RG556                       | [GammaOS Next - Anbernic T820 - v1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.0.0-T820) |
 | Anbernic RG-CUBE                     | [GammaOS Next - Anbernic T820 - v1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.0.0-T820) |
-| Anbernic RG406H                      | [GammaOS Next - Anbernic T820 - v1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.0.0-T820) |
+| Anbernic RG406H                      | [GammaOS Next - Anbernic RG406H - v1.2](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.2.0-ANBERNIC406H)  |
 | Anbernic RG406V                      | [GammaOS Next - Anbernic RG406V - v1.2](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.2.0-ANBERNIC406V) |
 | Anbernic RG476H                      | [GammaOS Next - Anbernic RG476H - v1.2](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.2.0-ANBERNICRG476H) |
 | Anbernic RG Slide                    | **PLANNED**                                                                              |
