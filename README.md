@@ -96,7 +96,7 @@ Enjoy the combination of performance, flexibility, and console-like UX that Gamm
 | ZPG Unicorn A1                       | [GammaOS Next - ZPG A1 Unicorn - v1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.0.0-ZPGA1UNICORN) |
 | GameMT E6 MAX                        | [GammaOS Next - GameMT E6 Max - v1.1.0](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.1.0-GAMEMTE6MAX) |
 | Powkiddy X28                         | **PLANNED**                                                                              |
-| Mangmi Air X                         | [GammaOS Next - Mangmi Air X - v1.1.1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.1.1-MANGMIAIRX) |
+| Mangmi Air X                         | [GammaOS Next - Mangmi Air X - v1.2](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.2.0-MANGMIAIRX) |
 
 ## Download & Changelog
 
