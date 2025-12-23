@@ -79,7 +79,7 @@ Enjoy the combination of performance, flexibility, and console-like UX that Gamm
 |--------------------------------------|------------------------------------------------------------------------------------------|
 | Anbernic RG477M                      | [GammaOS Next - Anbernic RG477M - v1.2.1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.2.1-ANBERNICRG477M)  |
 | Anbernic RG477V                      | [GammaOS Next - Anbernic RG477V - v1.2.1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.2.1-ANBERNICRG477V)  |
-| Anbernic RG557                       | [GammaOS Next - Anbernic RG557 - v1.2.1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.2.1-ANBERNICRG557)  |
+| Anbernic RG577                       | [GammaOS Next - Anbernic RG577 - v1.2.1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.2.1-ANBERNICRG577)  |
 | Anbernic RG556                       | [GammaOS Next - Anbernic RG556 - v1.2](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.2.0-ANBERNICRG556)  |
 | Anbernic RG Cube                     | [GammaOS Next - Anbernic RG Cube - v1.2](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.2.0-ANBERNICRGCUBE)  |
 | Anbernic RG406H                      | [GammaOS Next - Anbernic RG406H - v1.2](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.2.0-ANBERNIC406H)  |
