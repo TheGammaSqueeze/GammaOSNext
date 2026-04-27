@@ -78,6 +78,7 @@ Enjoy the combination of performance, flexibility, and console-like UX that Gamm
 | Device                               | Release                                                                                  |
 |--------------------------------------|------------------------------------------------------------------------------------------|
 | Anbernic RG Vita Pro                 | [GammaOS Next - Anbernic RG Vita Pro - v1.3.0](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v1.3.0-ANBERNICRGVITAPRO)  |
+| Anbernic RG Vita                     | [GammaOS Next - Anbernic RG Vita - v1.3.1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v1.3.1-ANBERNICRGVITA)  |
 | Anbernic RG477M                      | [GammaOS Next - Anbernic RG477M - v1.2.1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.2.1-ANBERNICRG477M)  |
 | Anbernic RG477V                      | [GammaOS Next - Anbernic RG477V - v1.2.1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.2.1-ANBERNICRG477V)  |
 | Anbernic RG557                       | [GammaOS Next - Anbernic RG557 - v1.2.1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.2.1-ANBERNICRG557)  |
