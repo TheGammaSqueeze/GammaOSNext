@@ -90,6 +90,7 @@ Enjoy the combination of performance, flexibility, and console-like UX that Gamm
 | Anbernic RG Slide                    | [GammaOS Next - Anbernic RG Slide - v1.2](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.2.0-ANBERNICRGSLIDE) |
 | Anbernic RG405M / RG405V / RG505     | [GammaOS Next - Anbernic RG405M / RG405V / RG505 - v1.1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.1.0-ANBERNICT618) |
 | Anbernic RG DS                       | [GammaOS Next - Anbernic RG DS - v1.2.2](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v1.2.2-ANBERNICRGDS) |
+| AYANEO Pocket Air Mini               | [GammaOS Next - AYANEO Pocket Air Mini - v1.3.1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v1.3.1-AYANEOPOCKETAIRMINI) |
 | AYANEO Pocket Micro                  | [GammaOS Next - AYANEO Pocket Micro - v1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.0.0-AYANEOPOCKETMICRO) |
 | AYANEO Pocket-S / DMG                | **PLANNED**                                                                              |
 | AYANEO Pocket AIR                    | **PLANNED**                                                                              |
