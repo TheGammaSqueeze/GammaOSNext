@@ -89,7 +89,11 @@ Enjoy the combination of performance, flexibility, and console-like UX that Gamm
 | Anbernic RG476H                      | [GammaOS Next - Anbernic RG476H - v1.2](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.2.0-ANBERNICRG476H) |
 | Anbernic RG Slide                    | [GammaOS Next - Anbernic RG Slide - v1.2](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.2.0-ANBERNICRGSLIDE) |
 | Anbernic RG405M / RG405V / RG505     | [GammaOS Next - Anbernic RG405M / RG405V / RG505 - v1.1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.1.0-ANBERNICT618) |
-| Anbernic RG DS                       | [GammaOS Next - Anbernic RG DS - v1.2.2](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v1.2.2-ANBERNICRGDS) |
+| Anbernic RG Rotate                   | [GammaOS Next - Anbernic RG Rotate - v1.4.0](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v1.4.0-ANBERNICRGROTATE) |
+| Anbernic RG DS                       | [GammaOS Next - Anbernic RG DS - v1.4.0](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v1.4.0-ANBERNICRGDS) |
+| TrimUI Brick                         | [GammaOS Nano - TrimUI Brick - v1.4.0](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v1.4.0-TRIMUIBRICK) |
+| MagicX Mini Zero 28                  | [GammaOS Nano - MagicX Mini Zero 28 - v1.4.0](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v1.4.0-MAGICXMINIZERO28) |
+| MagicX XURetro X20 V32               | [GammaOS Nano - MagicX XURetro X20 V32 - v1.4.0](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v1.4.0-MAGICXXURETROX20V32) |
 | AYANEO Pocket Air Mini               | [GammaOS Next - AYANEO Pocket Air Mini - v1.3.1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v1.3.1-AYANEOPOCKETAIRMINI) |
 | AYANEO Pocket Micro                  | [GammaOS Next - AYANEO Pocket Micro - v1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.0.0-AYANEOPOCKETMICRO) |
 | AYANEO Pocket-S / DMG                | **PLANNED**                                                                              |
