@@ -95,7 +95,7 @@ Enjoy the combination of performance, flexibility, and console-like UX that Gamm
 | MagicX Zero 40                       | [GammaOS Nano - MagicX Zero 40 - v1.4.1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v1.4.1-MAGICXZERO40) |
 | MagicX Mini Zero 28                  | [GammaOS Nano - MagicX Mini Zero 28 - v1.4.1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v1.4.1-MAGICXMINIZERO28) |
 | MagicX XURetro X20 V32               | [GammaOS Nano - MagicX XURetro X20 V32 - v1.4.1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v1.4.1-MAGICXXURETROX20V32) |
-| GKD RG350H Ultra                     | [GammaOS Nano - GKD RG350H Ultra - v1.4.1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v1.4.1-GKDRG350HULTRA) |
+| GKD 350H Ultra                     | [GammaOS Nano - GKD 350H Ultra - v1.4.1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v1.4.1-GKD350HULTRA) |
 | AYANEO Pocket Air Mini               | [GammaOS Next - AYANEO Pocket Air Mini - v1.3.1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v1.3.1-AYANEOPOCKETAIRMINI) |
 | AYANEO Pocket Micro                  | [GammaOS Next - AYANEO Pocket Micro - v1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.0.0-AYANEOPOCKETMICRO) |
 | AYANEO Pocket-S / DMG                | **PLANNED**                                                                              |
