@@ -89,8 +89,8 @@ Enjoy the combination of performance, flexibility, and console-like UX that Gamm
 | Anbernic RG476H                      | [GammaOS Next - Anbernic RG476H - v1.2](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.2.0-ANBERNICRG476H) |
 | Anbernic RG Slide                    | [GammaOS Next - Anbernic RG Slide - v1.2](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.2.0-ANBERNICRGSLIDE) |
 | Anbernic RG405M / RG405V / RG505     | [GammaOS Next - Anbernic RG405M / RG405V / RG505 - v1.1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v.1.1.0-ANBERNICT618) |
-| Anbernic RG DS                       | [GammaOS Next - Anbernic RG DS - v1.4.1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v1.4.1-ANBERNICRGDS) |
-| Anbernic RG DS Plus                  | [GammaOS Nano - Anbernic RG DS Plus - v1.4.3](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v1.4.3-ANBERNICRGDSPLUS) |
+| Anbernic RG DS                       | [GammaOS Nano - Anbernic RG DS - v1.4.4](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v1.4.4-ANBERNICRGDS) |
+| Anbernic RG DS Plus                  | [GammaOS Nano - Anbernic RG DS Plus - v1.4.4](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v1.4.4-ANBERNICRGDSPLUS) |
 | Anbernic RG Rotate                   | [GammaOS Next - Anbernic RG Rotate - v1.4.1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v1.4.1-ANBERNICRGROTATE) |
 | TrimUI Brick                         | [GammaOS Nano - TrimUI Brick - v1.4.1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v1.4.1-TRIMUIBRICK) |
 | MagicX Zero 40                       | [GammaOS Nano - MagicX Zero 40 - v1.4.1](https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/v1.4.1-MAGICXZERO40) |
